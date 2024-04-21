@@ -2,9 +2,9 @@
 
 > The file is in Chinese
 
-**本仓库内容已迁移至[personal_summary_docs 仓库](https://github.com/Figt-Gonz/personal_summary_docs/tree/main/algorithm)**
-
 记录算法学习历程，包括阅读书籍、刷题。
+
+**注：本仓库内容已迁移至 [personal_summary_docs 仓库](https://github.com/Figt-Gonz/personal_summary_docs/tree/main/algorithm)**
 
 ## 书籍
 
